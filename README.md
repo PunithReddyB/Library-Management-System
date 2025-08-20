@@ -67,7 +67,7 @@ Display branches with more than 5 employees
 
 🚀 How to Run
 1️⃣ Clone this repository
-git clone https://github.com/your-username/library-management-system.git
+git clone https://github.com/PunithReddyB/Library-Management-System.git
 cd library-management-system
 
 2️⃣ Open MySQL and execute the SQL script
